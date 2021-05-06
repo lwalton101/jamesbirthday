@@ -2,15 +2,17 @@
 <head>
 <title>Page Title</title>
 </head>
-<body onload="startConfetti()">
+<body>
 
 <h1>HAPPY HAPPY BIRTHDAY!</h1>
+
+<script src="confetti.js">startConfetti()</script>
 
 <button onclick="startConfetti();">Start</button>
 
 <button onclick="stopConfetti();">Stop</button>
 
-<script src="confetti.js"></script>
+
 
 </body>
 </html>
