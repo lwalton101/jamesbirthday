@@ -6,7 +6,7 @@
 
 <h1>HAPPY HAPPY BIRTHDAY!</h1>
 
-<script src="confetti.js">startConfetti()</script>
+<script src="confetti.js">startConfetti();</script>
 
 <button onclick="startConfetti();">Start</button>
 
