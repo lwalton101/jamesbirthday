@@ -2,11 +2,9 @@
 <head>
 <title>Page Title</title>
 </head>
-<body>
+<body onload="startConfetti()">
 
 <h1>HAPPY HAPPY BIRTHDAY!</h1>
-
-<script>startConfetti();</script>
 
 <button onclick="startConfetti();">Start</button>
 
