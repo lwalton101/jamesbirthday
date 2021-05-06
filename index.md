@@ -5,7 +5,8 @@
 <body>
 
 <h1>HAPPY HAPPY BIRTHDAY!</h1>
-<p>My first paragraph.</p>
+
+<script>startConfetti();</script>
 
 <button onclick="startConfetti();">Start</button>
 
