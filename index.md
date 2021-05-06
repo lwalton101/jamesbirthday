@@ -9,6 +9,8 @@
 
 <button onclick="startConfetti();">Start</button>
 
+<button onclick="stopConfetti();">Stop</button>
+
 <script src="confetti.js"></script>
 
 </body>
