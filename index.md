@@ -2,13 +2,13 @@
 <head>
 <title>Page Title</title>
 </head>
-<body>
+<body onload="startConfetti();">
 
 <h1>HAPPY HAPPY BIRTHDAY!</h1>
 
-<script src="confetti.js">window.onload = startConfetti();  </script>
+<script src="confetti.js"></script>
 
-<button onclick="startConfetti();">Start</button>
+<button onclick="">Start</button>
 
 <button onclick="stopConfetti();">Stop</button>
 
