@@ -8,7 +8,7 @@
 
 <script src="confetti.js"></script>
 
-<button onclick="">Start</button>
+<button onclick="startConfetti();">Start</button>
 
 <button onclick="stopConfetti();">Stop</button>
 
