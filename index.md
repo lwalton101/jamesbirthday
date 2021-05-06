@@ -6,8 +6,6 @@
 
 <h1>HAPPY HAPPY BIRTHDAY!</h1>
 
-<script src="confetti.js"></script>
-
 <audio id="hb_audio" src="happybirthday.mp3" loop="loop" muted="muted"></audio>
 
 <script>
@@ -20,8 +18,6 @@ window.onload = function() {
 <button onclick="startConfetti();">Start</button>
 
 <button onclick="stopConfetti();">Stop</button>
-
-
 
 </body>
 </html>
