@@ -2,7 +2,7 @@
 <head>
 <title>Page Title</title>
 </head>
-<body onload="startConfetti();">
+<body>
 <div id="myDIV">
 <h1>HAPPY HAPPY BIRTHDAY!</h1>
 
