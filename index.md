@@ -6,7 +6,7 @@
 <div id="myDIV">
 <h1>HAPPY HAPPY BIRTHDAY!</h1>
 
-<audio id="hb_audio" src="happybirthday.mp3" loop="loop" muted="muted"></audio>
+<audio id="hb_audio" src="happybirthday.mp3" loop="loop"></audio>
 
 
 <script src="confetti.js"></script>
