@@ -20,7 +20,7 @@ function startBirthday() {
 
 function stopBirthday(){
 	stopConfetti();
-	document.getElementById("hb_audio").pause;
+	document.getElementById("hb_audio").pause();
 }
 </script>
 
