@@ -17,11 +17,16 @@ function startBirthday() {
   startConfetti();
   document.getElementById("hb_audio").play();
 }
+
+function stopBirthday(){
+	stopConfetti();
+	document.getElementByIf("hb_audio").pause;
+}
 </script>
 
 <button onclick="startBirthday();">Start</button>
 
-<button onclick="stopConfetti();">Stop</button>
+<button onclick="stopBirthday();">Stop</button>
 
 
 </div>
