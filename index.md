@@ -15,7 +15,7 @@
 <script>
 function startBirthday() {
   startConfetti();
-  document.getElementById("hb_audio").play;
+  document.getElementById("hb_audio").play();
 }
 </script>
 
