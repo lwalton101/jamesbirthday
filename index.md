@@ -45,9 +45,8 @@ function stopBirthday(){
 	document.getElementById("hb_audio").pause();
 }
 </script>
-<div class="center">
+
 <img src="unicorncake.jpg" alt="SO CUTTEEE" width="250" height="300">
-</div>
 
 <div class="center">
 <button onclick="startBirthday();">Start</button>
