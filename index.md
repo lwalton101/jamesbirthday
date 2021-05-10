@@ -21,6 +21,8 @@
 .imgButton{
   text-align:center;
 }
+
+h1 {text-align: center;}
 </style>
 </head>
 <body>
@@ -44,7 +46,7 @@ function stopBirthday(){
 }
 </script>
 <div class="center">
-<img src="unicorncake.jpg" alt="SO CUTTEEE" width="250" height"300">
+<img src="unicorncake.jpg" alt="SO CUTTEEE" width="250" height="300">
 </div>
 
 <div class="center">
